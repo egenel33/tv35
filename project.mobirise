@@ -77,13 +77,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#b08c52"
+              "background": "#1b1a1a"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#bb9c6a!important"
+              "background": "#2d2b2b!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#c0a375"
+              "background": "#353333"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -106,7 +106,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#c0a375",
+            "bgColor": "#353333",
             "fontSize": "0.9",
             "fontName": {
               "name": "PT Sans",
