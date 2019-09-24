@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "project-2019-09-20_002948",
+    "name": "TV 35",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -68,10 +68,10 @@
               "font-family": "'PT Sans', sans-serif"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -105,9 +105,9 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#353333",
-            "fontSize": "0.9",
+            "fontSize": "0.95",
             "fontName": {
               "name": "PT Sans",
               "url": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
@@ -144,7 +144,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "inverse": false,
             "showArrow": true,
             "imageSize": "43",
@@ -168,13 +168,13 @@
             "image": {
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/behind-scenes-tv-studio-4-1183x783.jpg",
-              "active": true,
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "active": true
             },
             "video": {
-              "src": "https://www.youtube.com/watch?v=XEJM4Hcgd3M",
+              "src": "https://www.youtube.com/embed/VHgqoL_MHFc",
               "aspectratio": "16:9",
               "autoplay": "on",
               "loop": "on"
@@ -190,7 +190,7 @@
           },
           "title": "ANA HABER BÜLTENİ",
           "text": "Her Akşam Saat 20:00'de Murat Şensoy ve haber ekibiyle...&nbsp;<br>Gün boyu her saat başı Kanal 35 haberler ile İzmir ve İzmirlinin gündemi,<br>Türkiye ve dünyayı takip edin...",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CANLI İZLE</a>",
           "_tags": [
             "Theme"
           ],

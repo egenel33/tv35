@@ -733,11 +733,11 @@ section.form .container {
   font-family: 'PT Sans', sans-serif;
 }
 #menu-m .link {
-  font-size: 0.9rem;
+  font-size: 0.95rem;
 }
 #menu-m .dropdown-item,
 #menu-m .nav-dropdown-sm .link {
-  font-size: 0.975rem;
+  font-size: 1.029rem;
 }
 #menu-m .link:hover,
 #menu-m .dropdown-item:hover,
